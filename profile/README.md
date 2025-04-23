@@ -36,4 +36,13 @@ Disponível apenas para Android.
 -->
 
 ## 🧑‍💻 **Feed**
-![image](https://github.com/user-attachments/assets/371abb09-c107-4139-914f-27355f5f85e2)
+
+![image](https://github.com/user-attachments/assets/09618287-4c0a-4fd0-88f6-2f79d1baeb86)
+![image](https://github.com/user-attachments/assets/225f031c-20fd-433e-8513-74d8c2dc4d7c)
+![image](https://github.com/user-attachments/assets/396ee5c1-c5b4-4ce4-a974-209099800c65)
+![image](https://github.com/user-attachments/assets/25c0cf60-2cc6-47a9-9484-9ae30d841617)
+![image](https://github.com/user-attachments/assets/bb26b51b-16a4-4010-9038-43486ffea7b8)
+![image](https://github.com/user-attachments/assets/b5998263-47d2-49db-b7a9-17b08c28c69d)
+![image](https://github.com/user-attachments/assets/4f65de6c-7a88-4aab-af2e-c6cf6534a98a)
+![image](https://github.com/user-attachments/assets/4a59d86a-337d-49bf-b5d0-54d99b8f9902)
+
