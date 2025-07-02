@@ -1,6 +1,6 @@
 # 🌐 **Momentos** - Sua Nova Rede Social!
 
-Bem-vindo ao repositório do **Momentos**, uma rede social moderna onde você pode compartilhar posts, seguir amigos e acompanhar suas atualizações. 🚀 Momentos agora é do Paçoca.
+Bem-vindo ao repositório do **Momentos**, uma rede social de código aberto moderna onde você pode compartilhar posts, seguir amigos e acompanhar suas atualizações. 🚀 Momentos agora é do Paçoca.
 Disponível apenas para Android.
 
 
